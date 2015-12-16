@@ -1,0 +1,13 @@
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\bin\Debug\Course_Db.exe.config
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\bin\Debug\Course_Db.exe
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\bin\Debug\Course_Db.pdb
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.csproj.GenerateResource.Cache
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.exe
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.pdb
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.MainForm.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.AdminPanel.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.UserPanel.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.ControlPanel.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.CustomPanel.resources
+C:\Users\Alexandr\Desktop\__\Course_Db\Course_Db\obj\Debug\Course_Db.csprojResolveAssemblyReference.cache
